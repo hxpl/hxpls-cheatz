@@ -2,17 +2,14 @@ body {
  background-color: black;
 }
 
-button {
- background-color: black;
- border-color: cyan;
- border-width: 3;
- color: cyan;
-}
-
 h1 {
  color: cyan;
 }
 
 p {
+ color: cyan;
+}
+
+a {
  color: cyan;
 }
