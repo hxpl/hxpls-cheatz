@@ -1,19 +1,17 @@
 body {
  text-align: center;
+ font-family: 'Source Code Pro', monospace;
  background-color: black;
 }
 
 h1 {
- text-align: center;
  color: cyan;
 }
 
 p {
- text-align: center;
  color: cyan;
 }
 
 a {
- text-align: center;
  color: cyan;
 }
